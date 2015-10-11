@@ -4,7 +4,7 @@
   <title><![CDATA[Learning RnR]]></title>
   <link href="http://dayns.github.io/atom.xml" rel="self"/>
   <link href="http://dayns.github.io/"/>
-  <updated>2015-10-11T07:47:10+00:00</updated>
+  <updated>2015-10-11T07:51:46+00:00</updated>
   <id>http://dayns.github.io/</id>
   <author>
     <name><![CDATA[DaynS]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Learn Ruby via Smartphone]]></title>
-    <link href="http://dayns.github.io/blog/2015/10/11/learn-ruby-via-smartphone/"/>
-    <updated>2015-10-11T07:33:03+00:00</updated>
-    <id>http://dayns.github.io/blog/2015/10/11/learn-ruby-via-smartphone</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
