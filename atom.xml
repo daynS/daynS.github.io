@@ -4,7 +4,7 @@
   <title><![CDATA[Learning RnR]]></title>
   <link href="http://dayns.github.io/atom.xml" rel="self"/>
   <link href="http://dayns.github.io/"/>
-  <updated>2015-10-11T07:34:51+00:00</updated>
+  <updated>2015-10-11T07:47:10+00:00</updated>
   <id>http://dayns.github.io/</id>
   <author>
     <name><![CDATA[DaynS]]></name>
@@ -14,16 +14,12 @@
 
   
   <entry>
-    
-    <title type="html"><![CDATA[Learn Ruby via smartphone GLYPH GOES HERE]]></title>&#8734;
-    <link href="http://thebridge.jp/en/2015/10/ffab0-pocketprogramming"/>
-    
+    <title type="html"><![CDATA[Learn Ruby via Smartphone]]></title>
+    <link href="http://dayns.github.io/blog/2015/10/11/learn-ruby-via-smartphone/"/>
     <updated>2015-10-11T07:33:03+00:00</updated>
     <id>http://dayns.github.io/blog/2015/10/11/learn-ruby-via-smartphone</id>
-    
     <content type="html"><![CDATA[
-<a rel="full-article" href="http://dayns.github.io/blog/2015/10/11/learn-ruby-via-smartphone/">Permalink</a>]]></content>&#8734;
-    
+]]></content>
   </entry>
   
 </feed>
