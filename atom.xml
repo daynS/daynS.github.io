@@ -4,7 +4,7 @@
   <title><![CDATA[Learning RnR]]></title>
   <link href="http://dayns.github.io/atom.xml" rel="self"/>
   <link href="http://dayns.github.io/"/>
-  <updated>2015-10-11T07:53:04+00:00</updated>
+  <updated>2015-10-11T07:55:36+00:00</updated>
   <id>http://dayns.github.io/</id>
   <author>
     <name><![CDATA[DaynS]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post Test]]></title>
+    <link href="http://dayns.github.io/blog/2015/10/11/first-post-test/"/>
+    <updated>2015-10-11T07:54:40+00:00</updated>
+    <id>http://dayns.github.io/blog/2015/10/11/first-post-test</id>
+    <content type="html"><![CDATA[<p>Hey! Here is a test post with an external link!</p>
+]]></content>
+  </entry>
   
 </feed>
